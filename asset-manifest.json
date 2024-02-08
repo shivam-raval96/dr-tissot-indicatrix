@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/dr-tissot-indicatrix/static/css/main.1c79f39e.css",
-    "main.js": "/dr-tissot-indicatrix/static/js/main.be6a9e36.js",
+    "main.js": "/dr-tissot-indicatrix/static/js/main.0f95d111.js",
     "static/js/787.0f8d78ff.chunk.js": "/dr-tissot-indicatrix/static/js/787.0f8d78ff.chunk.js",
+    "static/media/mnist.png": "/dr-tissot-indicatrix/static/media/mnist.0147ecd7a40223b366c4.png",
+    "static/media/teaser.png": "/dr-tissot-indicatrix/static/media/teaser.afec63f2dc118f30236a.png",
+    "static/media/distortion.png": "/dr-tissot-indicatrix/static/media/distortion.1fbbb5f449f212542686.png",
+    "static/media/tissot.png": "/dr-tissot-indicatrix/static/media/tissot.d5d73d34fc596bf1ed50.png",
     "index.html": "/dr-tissot-indicatrix/index.html",
     "main.1c79f39e.css.map": "/dr-tissot-indicatrix/static/css/main.1c79f39e.css.map",
-    "main.be6a9e36.js.map": "/dr-tissot-indicatrix/static/js/main.be6a9e36.js.map",
+    "main.0f95d111.js.map": "/dr-tissot-indicatrix/static/js/main.0f95d111.js.map",
     "787.0f8d78ff.chunk.js.map": "/dr-tissot-indicatrix/static/js/787.0f8d78ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c79f39e.css",
-    "static/js/main.be6a9e36.js"
+    "static/js/main.0f95d111.js"
   ]
 }
