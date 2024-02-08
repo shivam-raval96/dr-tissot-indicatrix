@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCluster-Explainer/static/css/main.1c79f39e.css",
+    "main.js": "/TextCluster-Explainer/static/js/main.16d0161c.js",
+    "static/js/787.0f8d78ff.chunk.js": "/TextCluster-Explainer/static/js/787.0f8d78ff.chunk.js",
+    "index.html": "/TextCluster-Explainer/index.html",
+    "main.1c79f39e.css.map": "/TextCluster-Explainer/static/css/main.1c79f39e.css.map",
+    "main.16d0161c.js.map": "/TextCluster-Explainer/static/js/main.16d0161c.js.map",
+    "787.0f8d78ff.chunk.js.map": "/TextCluster-Explainer/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c79f39e.css",
+    "static/js/main.16d0161c.js"
+  ]
+}
